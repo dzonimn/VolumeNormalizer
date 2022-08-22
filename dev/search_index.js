@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#VolumeNormalizer.jl","page":"VolumeNormalizer.jl","title":"VolumeNormalizer.jl","text":"","category":"section"},{"location":"","page":"VolumeNormalizer.jl","title":"VolumeNormalizer.jl","text":"Documentation for VolumeNormalizer.jl","category":"page"},{"location":"","page":"VolumeNormalizer.jl","title":"VolumeNormalizer.jl","text":"VolumeNormalizer.normalize(filepath)","category":"page"},{"location":"#VolumeNormalizer.normalize-Tuple{Any}","page":"VolumeNormalizer.jl","title":"VolumeNormalizer.normalize","text":"normalize(filepath)\n\nNormalizes the volume of filepath and saves it as a new file prepended with the text \"out-\".\n\n\n\n\n\n","category":"method"}]
+}
