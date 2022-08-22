@@ -1,0 +1,10 @@
+name = "VolumeNormalizer"
+uuid = "d715e129-1697-412c-aec6-b5fea0595bf5"
+authors = ["dzonimn"]
+version = "0.1.0"
+
+[deps]
+FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"
+
+[extras]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
